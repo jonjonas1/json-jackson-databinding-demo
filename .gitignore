@@ -1,0 +1,11 @@
+/target/
+TestResults/
+selenium.properties
+bin/
+.classpath
+.project
+.settings
+debug.log
+/test-output/
+/build/
+.DS*
